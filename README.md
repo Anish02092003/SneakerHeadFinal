@@ -1,12 +1,11 @@
-Here is the final project submitted by SneakerheadCorp
-/br
-members: 
-gaurab pradhan
-aliva barik
-pritish lenka
-aryan mishra
-sutikhna behera
-Here are the outputs attached :
+Here is the final project submitted by SneakerheadCorp<br>
+members:<br> 
+gaurab pradhan<br>
+aliva barik<br>
+pritish lenka<br>
+aryan mishra<br>
+sutikhna behera<br>
+Here are the outputs attached :<br>
 ![IMG-20240727-WA0001](https://github.com/user-attachments/assets/eaa3f3c0-c37c-453d-bfdc-f05d1b14c064)
 ![IMG-20240727-WA0002](https://github.com/user-attachments/assets/372f3d68-abaf-43e2-b6ed-bc3e4fefbdc8)
 ![IMG-20240727-WA0003](https://github.com/user-attachments/assets/711c7431-ff13-48cc-a347-d3300fcd99e8)
